@@ -1,10 +1,10 @@
 /* Color was darkblue */
 body {
-  color: rgb(201, 201, 201);
+  color: darkblue;
 }
   
 #rollButton {
-  background-color: rgb(201, 201, 201);
+  background-color: darkblue;
   color: white;
 }
   
