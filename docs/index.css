@@ -1,13 +1,14 @@
+/* Color was darkblue */
 body {
-    color: darkblue;
-  }
+  color: rgb(201, 201, 201);
+}
   
-  #rollButton {
-    background-color: darkblue;
-    color: white;
-  }
+#rollButton {
+  background-color: rgb(201, 201, 201);
+  color: white;
+}
   
-  label {
-    margin-right: 10px;
-  }
+label {
+  margin-right: 10px;
+}
   

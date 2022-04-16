@@ -43,4 +43,4 @@ function getResults() {
 }
 
 // Use this on JSFiddle to add click event listener
-document.getElementById('rollButton').addEventListener('click', getResults)
+// document.getElementById('rollButton').addEventListener('click', getResults)
